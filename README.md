@@ -1,1 +1,1 @@
-# slack-mension-bot
+# slack-mention-bot
