@@ -1,4 +1,4 @@
-pyyaml==4.2b4
+pyyaml==5.4
 requests==2.21.0
 requests-toolbelt==0.9.1
 slackbot==0.5.3
